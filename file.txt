@@ -1,6 +1,4 @@
 welcome to devops lab
 Name : Pratik Phadi
 course : btech 2nd year
-dob : 24/10/2006
-ph no : 7975928957
-
+clg : Nie
