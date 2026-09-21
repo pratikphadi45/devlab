@@ -1,1 +1,3 @@
-pratikphadi
+welcome to devops lab
+Name : Pratik Phadi
+
